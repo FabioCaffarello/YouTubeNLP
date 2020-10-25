@@ -4,27 +4,30 @@
 
 Link: https://console.developers.google.com/
 
+![01-CreateProject](https://user-images.githubusercontent.com/52248363/97109572-c29d2380-16b2-11eb-90e3-e2e750fe43a5.PNG)
 
 
 - 2º: With the project open select the "YouTube API Data v3" API in the library
 
+![02-Library](https://user-images.githubusercontent.com/52248363/97109598-e5c7d300-16b2-11eb-84b9-5c1b933ed1c3.PNG)
 
 
 - 3º: With the API select you must enable the API in the project
 
+![03-EnableAPI](https://user-images.githubusercontent.com/52248363/97109615-f710df80-16b2-11eb-8150-ad62b96431d0.PNG)
 
 
 - 4º: You must create the credential
 
-
-
+![04-CreateCredentials](https://user-images.githubusercontent.com/52248363/97109630-0ee86380-16b3-11eb-9d6c-08b6877c8d84.PNG)
 
 - 5º: To create the credential, you must fill in the following fields
 
-
+![05-AddCredentials](https://user-images.githubusercontent.com/52248363/97109649-23c4f700-16b3-11eb-9b6d-7adeb449433b.PNG)
 
 - 6º: Your API key was generated
 
+![06-APIKey](https://user-images.githubusercontent.com/52248363/97109654-32131300-16b3-11eb-94df-af0e5e5c64af.PNG)
 
 
 **This KEY API has been stored in an environment variable to be used in the project.**
