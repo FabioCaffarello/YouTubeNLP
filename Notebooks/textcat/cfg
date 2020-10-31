@@ -1,0 +1,7 @@
+{
+  "labels":[
+    "POSITIVE"
+  ],
+  "pretrained_vectors":"en_core_web_md.vectors",
+  "pretrained_dims":300
+}
