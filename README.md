@@ -1,6 +1,6 @@
 # YouTubeNPL
 
-* This Project will build NPL analysis of youtube videos through their description and comments.
+* This Project will build NLP analysis of youtube videos through their description and comments.
 
 ## Team
 
