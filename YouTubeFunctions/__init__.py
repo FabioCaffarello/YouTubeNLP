@@ -292,6 +292,7 @@ def get_comment_videos(url_channel, youtube_api_key):
                 "Author Comment Id":[],
                 "Like Comment Count":[],
                 "Total Reply Comment":[],
+                "Video Id":[],
                 "Published At":[],
               }
     #Request to get data of the last 50 comments of each video for all videos of all playlists in the channel
@@ -313,6 +314,7 @@ def get_comment_videos(url_channel, youtube_api_key):
                 comment_dict['Author Comment Id'].append(item['snippet']['topLevelComment']['snippet']['authorChannelId'].get('value',None))
                 comment_dict['Like Comment Count'].append(item['snippet']['topLevelComment']['snippet'].get('likeCount',0))
                 comment_dict['Total Reply Comment'].append(item['snippet'].get('totalReplyCount',0))
+                comment_dict['Video Id'].append(video)
 
                 publishedAt = item['snippet']['topLevelComment']['snippet']['publishedAt'].split('Z')[0]
                 publishedAt = datetime.strptime(publishedAt,f)

@@ -14,3 +14,5 @@
 
 ## Diagram of the ETL of Youtube
 
+![Diagram_ETL](https://user-images.githubusercontent.com/52248363/97812054-737c6300-1c5d-11eb-95e3-664857cad2d4.png)
+
