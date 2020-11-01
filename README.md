@@ -14,7 +14,7 @@
 
 ## API Key of YouTube data API
 
-*To create the youtube Key API you must follow the step-by-step described in <a href="https://github.com/FabioCaffarello/YouTubeNPL/blob/main/InstructionToCreateYouTubeAPIKey.md">Instruction to create YouTube API Key</a>
+**To create the youtube Key API you must follow the step-by-step described in** <a href="https://github.com/FabioCaffarello/YouTubeNPL/blob/main/InstructionToCreateYouTubeAPIKey.md">Instruction to create YouTube API Key</a>
 
 ## Diagram of the ETL of Youtube
 
